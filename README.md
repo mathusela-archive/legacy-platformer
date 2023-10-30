@@ -6,4 +6,4 @@ Basic 2D platformer with AABB collision.
 
 ---
 
-Written in 2020
+Written in August 2020
