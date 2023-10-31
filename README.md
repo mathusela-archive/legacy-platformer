@@ -5,3 +5,5 @@
 ---
 
 Basic 2D platformer with AABB collision.
+
+![image](docs/image.png)
